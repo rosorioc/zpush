@@ -1,0 +1,14 @@
+{
+  "name": "ro-zpush",
+  "version": "0.1.0",
+  "author": "ro",
+  "summary": "The Puppet module manages Z-push",
+  "license": "Apache 2.0",
+  "source": "github",
+  "project_page": "github",
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
