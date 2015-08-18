@@ -1,5 +1,4 @@
-#
-class zpush::config inherits zpush {
+class zpush::config {
 
   file { '/usr/share/z-push':
     ensure => directory,
