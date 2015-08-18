@@ -1,4 +1,6 @@
 class zpush (
+  include zpush::config
+
   $config           = $zpush::params::config,
   $config_template  = $zpush::params::config_template,
 ) inherits zpush::params {
